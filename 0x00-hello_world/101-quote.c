@@ -1,7 +1,7 @@
  #include <stdio.h>
  #include <unistd.h>
 /**
-* main -- Print a prpgram using  printf or puts 
+* main -- Print a prpgram using  printf or puts :%s/\s\+$//e
 *
 * Return: 1
 */
